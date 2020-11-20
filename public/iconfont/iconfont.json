@@ -1,0 +1,37 @@
+{
+  "id": "2181232",
+  "name": "shanmei",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "166176",
+      "name": "小三角down",
+      "font_class": "xiaosanjiaodown",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "166177",
+      "name": "小三角up",
+      "font_class": "xiaosanjiaoup",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "1130595",
+      "name": "个人",
+      "font_class": "geren",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "1526409",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    }
+  ]
+}
